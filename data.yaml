@@ -1,0 +1,13 @@
+train: ../train/images
+val: ../valid/images
+test: ../test/images
+
+nc: 2
+names: ['Obstacle', 'Wall']
+
+roboflow:
+  workspace: robot-arm-8ebon
+  project: segmentation-9ozwe
+  version: 3
+  license: CC BY 4.0
+  url: https://universe.roboflow.com/robot-arm-8ebon/segmentation-9ozwe/dataset/3
