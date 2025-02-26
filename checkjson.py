@@ -31,7 +31,7 @@ def check_for_distance(dataset_dir, target_distance):
                 print(f"Found target distance {target_distance} in Action {action_index} (Folder: {action_folder})")
 
 # Specify the target distance you are looking for
-target_distance = 152
+target_distance = 160
 
 # Run the function to check for the target distance
 check_for_distance(dataset_dir, target_distance)
