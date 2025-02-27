@@ -5,7 +5,7 @@ import time
 # Configuration
 SERIAL_PORT = "COM3"
 BAUD_RATE = 9600
-JSON_FILE = "dataset/action433/info.json"  # Change to your actual JSON file
+JSON_FILE = "dataset/action497/info.json"  # Change to your actual JSON file
 TIMEOUT = 5  # Maximum time to wait for Arduino's response (seconds)
 
 # Initialize serial connection
